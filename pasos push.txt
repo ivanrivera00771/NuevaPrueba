@@ -10,3 +10,43 @@ pasos pull
 
 git clone enlace desde la barra de navegacion
 git pull origin master
+
+
+
+branch ahora-------------
+
+git branch 
+git branch rama 1
+git branch
+
+git branch -m rama1 ramita1
+git branch
+
+git checkout ramita 1
+git branch
+
+git branch -d ramita 1  ES PARA BORRAR
+git checkout master
+
+git branch -d ramita 1 AHORA SI SE PUEDO BORRAR
+git branch PARA VERIFICAR
+
+________________________________________
+
+CREAR ARCHIVOS QUE NOE STEN EN LA RAMA PRINCIPAL
+
+touch "texto.txt"
+touch "texto2.txt"
+
+git checkout master PARA CAMBAIR A MASTER  
+git checkout rama1
+
+git add . PARA AGREGAR TODOSL OS ARCHIVOS
+
+git commit -m "asdf"
+
+git checkout master
+
+git checkout rama1
+
+git 
