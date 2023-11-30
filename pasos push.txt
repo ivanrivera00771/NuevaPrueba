@@ -4,3 +4,9 @@ git status
 git log
 git commit -m "comentario"
 git push -u origin master
+
+
+pasos pull
+
+git clone enlace desde la barra de navegacion
+git pull origin master
